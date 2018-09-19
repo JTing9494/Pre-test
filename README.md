@@ -1,6 +1,6 @@
 # Pre-test
 # oursky Pre-test
-# anwser1.c
+# answer1.c
 #include <stdio.h>
 #include <stdbool.h>
 
@@ -88,12 +88,12 @@ bool isSubset2(int *arr4, int *arr5, int o, int p ){
 }
 
 
-# anwser2.md
+# answer2.md
 In the example 1. that would be O(n) for the computational complexity.
 Because it is just using a linear time to have a function comparing to each string array.
 
 
-# anwser3.py
+# answer3.py
 import sys
 
 nterms = 10
@@ -117,7 +117,7 @@ else:
 		f2 = fth
 		count += 1
     
-# anwser4.js
+# answer4.js
 //The function can be modified as below
 
 function createArrayOfFunctions(y) {
